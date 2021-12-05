@@ -1,0 +1,14 @@
+._song_card {
+    width: 500px;
+    height: 80px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px 0px;
+    box-shadow: 5px 10px gray;
+    border-radius: 5px;
+}
+
+._songs {
+    margin: auto;
+    width: 600px;
+}
